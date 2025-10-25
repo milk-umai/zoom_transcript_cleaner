@@ -1,0 +1,2 @@
+# zoom_transcript_cleaner
+Zoomの文字起こしを整形するbatファイル用
